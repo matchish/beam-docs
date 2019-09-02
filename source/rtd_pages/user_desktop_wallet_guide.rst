@@ -27,7 +27,7 @@ Beam Desktop Wallet is the simplest way to start using Beam. It is available for
 Downloading binaries
 --------------------
 
-Start downloading here: https://beam.mw/downloads
+Start downloading here: https://www.beam.mw/downloads/mainnet
 
 Ensure that the communication between your browser and Beam's official website is encrypted by verifying that the padlock icon is displayed in its locked state on the URL bar.
 
